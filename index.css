@@ -66,3 +66,17 @@ select {
     }
 
 }
+
+
+.flex{
+    display:flex;
+}
+.grid{
+    display:grid;
+}
+
+.container{
+    padding-inline: 2em;
+    margin-inline:auto;
+    max-width: 80rem;
+}
